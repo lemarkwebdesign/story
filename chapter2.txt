@@ -1,1 +1,1 @@
-First text in chapter2
+zmiana w branch na chapter2
